@@ -102,7 +102,7 @@ Brazil’s e-commerce looks sleek, but behind the scenes, **logistics, retention
 
 ---
 
-Вот адаптированная версия `README.md` на русском языке в том же духе:
+
 
 ---
 
